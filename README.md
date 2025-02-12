@@ -7,6 +7,6 @@ A easy to use generator that creates **krispy kreme** accounts in *python*.
 
 
 ```bash
-python 
+python main.py
 ```
 
